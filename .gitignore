@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs/ClipboardWithShortcuts/v16
+/Copy Text Shortcut/.vs/Copy Text Shortcut/v16
+/Copy Text Shortcut/obj/Release/.NETFramework,Version=v4.6.1.AssemblyAttributes.cs
+/Copy Text Shortcut/bin/Release
+/.vs/slnx.sqlite-journal
+/Copy Text Shortcut/obj/Debug
+/Copy Text Shortcut/bin/Debug
+/Copy Text Shortcut/obj/Release
