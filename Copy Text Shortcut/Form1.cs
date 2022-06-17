@@ -96,7 +96,7 @@ namespace Copy_Text_Shortcut
             }
             else
             {
-                MessageBox.Show("Cannot add more item, please contact to developer Sourabh Chawla, email id: chawlasourabh01@gmail.com", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Cannot add more item, please contact to developer Sourabh Chawla, request on email id: chawlasourabh01@gmail.com", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
     }    
