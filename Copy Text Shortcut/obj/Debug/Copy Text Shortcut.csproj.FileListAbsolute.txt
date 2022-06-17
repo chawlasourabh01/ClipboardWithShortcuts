@@ -1,0 +1,30 @@
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.exe.config
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.exe
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.pdb
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.AssemblyReference.cache
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy_Text_Shortcut.Form1.resources
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy_Text_Shortcut.Properties.Resources.resources
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.GenerateResource.cache
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.CoreCompileInputs.cache
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.exe
+C:\Users\sourabh.chawla\source\repos\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.pdb
+D:\Sourabh\Tools\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.exe.config
+D:\Sourabh\Tools\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.exe
+D:\Sourabh\Tools\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.pdb
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.AssemblyReference.cache
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy_Text_Shortcut.Form1.resources
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy_Text_Shortcut.Properties.Resources.resources
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.GenerateResource.cache
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.CoreCompileInputs.cache
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.exe
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.pdb
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.exe.config
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.exe
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\bin\Debug\Copy Text Shortcut.pdb
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.AssemblyReference.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy_Text_Shortcut.Form1.resources
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy_Text_Shortcut.Properties.Resources.resources
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.GenerateResource.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.csproj.CoreCompileInputs.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.exe
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Debug\Copy Text Shortcut.pdb

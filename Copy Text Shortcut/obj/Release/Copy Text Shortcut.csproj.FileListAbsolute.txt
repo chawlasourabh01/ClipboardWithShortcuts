@@ -1,0 +1,20 @@
+D:\Sourabh\Tools\Copy Text Shortcut\bin\Release\Copy Text Shortcut.exe.config
+D:\Sourabh\Tools\Copy Text Shortcut\bin\Release\Copy Text Shortcut.exe
+D:\Sourabh\Tools\Copy Text Shortcut\bin\Release\Copy Text Shortcut.pdb
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy_Text_Shortcut.Form1.resources
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy_Text_Shortcut.Properties.Resources.resources
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy Text Shortcut.csproj.GenerateResource.cache
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy Text Shortcut.csproj.CoreCompileInputs.cache
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy Text Shortcut.exe
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy Text Shortcut.pdb
+D:\Sourabh\Tools\Copy Text Shortcut\obj\Release\Copy Text Shortcut.csproj.AssemblyReference.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy Text Shortcut.csproj.AssemblyReference.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy_Text_Shortcut.Form1.resources
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy_Text_Shortcut.Properties.Resources.resources
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy Text Shortcut.csproj.GenerateResource.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy Text Shortcut.csproj.CoreCompileInputs.cache
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy Text Shortcut.exe
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\obj\Release\Copy Text Shortcut.pdb
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\bin\Release\Copy Text Shortcut.exe.config
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\bin\Release\Copy Text Shortcut.exe
+D:\Sourabh\Workspace\GitHub\Copy Text Shortcut\bin\Release\Copy Text Shortcut.pdb
